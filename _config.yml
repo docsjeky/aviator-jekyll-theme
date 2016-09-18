@@ -4,6 +4,7 @@
 title: Aviator
 description: Jekyll template for API documentation.
 url: docsjeky.github.io
+base_url: '/docsjeky.github.io'
 google_analytics_key:
 
 collections:
